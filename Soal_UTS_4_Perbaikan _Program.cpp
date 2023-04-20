@@ -24,3 +24,4 @@ int main() {
     rata = total / (jumlah + 1);
     cout << "Rata-rata: " << rata << endl;
 }
+// selesai
